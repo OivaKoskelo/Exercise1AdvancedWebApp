@@ -32,7 +32,8 @@ body {
     max-width: 50%;
   }
   .container {
-    flex-wrap: max-width 960px;
+    flex-wrap: wrap;
+    max-width: 960px;
     margin: 0 auto;
   }
 }
